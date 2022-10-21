@@ -52,3 +52,11 @@ if (i < (arr.Length-1)) Console.Write($", "); // условия вывода ф�
 }
 Console.WriteLine(); // пустая строка для отступа
 } */
+
+/* Console.Write("Введите высоту матрицы: ");
+int m = int.Parse(Console.ReadLine());
+
+Console.Write("Введите длину матрицы: ");
+int n = int.Parse(Console.ReadLine());
+
+int[,] array = new int[m, n]; */
